@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 ^epiverse_project\.Rproj$
 ^\.Rproj\.user$
 ^\.DS_Store$
@@ -10,3 +12,4 @@
 ^README\.Rmd$
 ^README\.html$
 ^\.github$
+^\.Rprofile$
